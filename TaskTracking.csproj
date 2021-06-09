@@ -4,7 +4,7 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
-    <ApplicationIcon>stopwatch-tool_icon-icons.com_56755.ico</ApplicationIcon>
+    <ApplicationIcon>42608stopwatch_99116.ico</ApplicationIcon>
   </PropertyGroup>
 
 </Project>
